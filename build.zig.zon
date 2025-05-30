@@ -37,13 +37,13 @@
     // internet connectivity.
     .dependencies = .{
         .@"mavlink-v2" = .{
-            .url = "git+https://github.com/mavlink/c_library_v2#f0aef0340bfa9f811caffab05b3bedfc7bc7a4e8",
-            .hash = "N-V-__8AACUrwgAeae7PdyEnm81I2IH5bmmSuS4UPj5zqMDT",
+            .url = "git+https://github.com/mavlink/c_library_v2#1780567adc01dd56702b786dfb082d79a7de11b4",
+            .hash = "N-V-__8AADM6vQByOT4TTi19MrzwTqg0M3-hGNJTqP6GB1Yz",
             .lazy = true,
         },
         .@"mavlink-v1" = .{
-            .url = "git+https://github.com/mavlink/c_library_v1#f4c46eec9a1b35db2d07c4f79fe1f3203bc570ed",
-            .hash = "N-V-__8AAEuDdQAr9BzH7QHphSu1XgHCTe2qI65S9hffUuBx",
+            .url = "git+https://github.com/mavlink/c_library_v1#8b27088884fc82075bb2cb2401db41a3204cbd1c",
+            .hash = "N-V-__8AAMI5cwDVWe7kFVBTJcRSjISDgnfeJY6IHlRjgwnt",
             .lazy = true,
         },
     },
